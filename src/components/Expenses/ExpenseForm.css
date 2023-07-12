@@ -1,0 +1,31 @@
+label{
+  color:white;
+  
+}
+.hold{
+  display:flex;
+  justify-content: space-between;
+}
+input{
+  border-radius: 6px;
+  padding: 0.2rem;
+}
+.submit{
+  width: 8rem;
+  padding:0.5rem 0rem;
+  text-transform: uppercase;
+  border-radius: 6px;
+  color:white;
+  background-color: #4b4b4b;
+  cursor: pointer;
+}
+.submit2{
+  width: 8rem;
+  padding:0.5rem 0rem;
+  text-transform: uppercase;
+  border-radius: 6px;
+  color:white;
+  background-color: #4b4b4b;
+  cursor: pointer;
+  margin: auto;
+}
